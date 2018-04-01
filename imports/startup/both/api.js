@@ -1,0 +1,1 @@
+import '../../api/News/methods';
